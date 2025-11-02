@@ -1,5 +1,5 @@
 # Portfolio:
-A personal portfolio website built with Next.js and Chakra UI to showcase my projects and skills.
+A personal portfolio website built with Next.js, TypeScript, and Chakra UI to showcase my projects and skills.
 
 ### Tech Stack:
 - Next.js 15
