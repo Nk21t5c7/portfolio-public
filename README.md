@@ -6,6 +6,6 @@ A personal portfolio website built with Next.js and Chakra UI to showcase my pro
 - TypeScript
 - Chakra UI
 
-###　Note:
+### Note:
 The `data.tsx` file, which contains personal or sensitive information, is excluded from this repository.
 You can explore the layout, styling, and component implementation here.
